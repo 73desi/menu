@@ -215,6 +215,36 @@
                     "title":"哔哩哔哩卡片转换",
                     "command":"无",
                     "img":"https://img1.imgtp.com/2022/07/14/sSYLs63r.png"
+                },
+                {
+                    "source":"基于petpet自制",
+                    "title":"坟头",
+                    "command":"坟头/grave_photo @***",
+                    "img":"https://img1.imgtp.com/2022/07/15/wOayFsOD.png"
+                },
+                {
+                    "source":"miramira",
+                    "title":"gif生成之你好骚啊",
+                    "command":"/gif 你好骚哦 ***",
+                    "img":"https://img1.imgtp.com/2022/07/15/h0MqD662.gif"
+                },
+                {
+                    "source":"miramira",
+                    "title":"gif生成之王境泽真香",
+                    "command":"/gif 真香 * * * *",
+                    "img":"https://img1.imgtp.com/2022/07/15/mhn5y9yf.gif"
+                },
+                {
+                    "source":"miramira",
+                    "title":"gif生成之吔屎啦梁非凡",
+                    "command":"/gif 吔屎啦梁非凡 * * * *",
+                    "img":"https://img1.imgtp.com/2022/07/15/1l4d8Bc5.gif"
+                },
+                {
+                    "source":"miramira",
+                    "title":"gif生成之金馆长斗图",
+                    "command":"/gif 金馆长斗图 * * *",
+                    "img":"https://img1.imgtp.com/2022/07/15/kpWL8vxm.gif"
                 }
    ]
 }
