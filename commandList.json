@@ -245,6 +245,54 @@
                     "title":"gif生成之金馆长斗图",
                     "command":"/gif 金馆长斗图 * * *",
                     "img":"https://img1.imgtp.com/2022/07/15/kpWL8vxm.gif"
+                },
+                {
+                    "title":"对称",
+                    "source":"petpet",
+                    "command":"左对称/对称/symmetry @**",
+                    "img":"https://img1.imgtp.com/2022/07/19/dWJN7dUj.png"
+                },
+                {
+                    "title":"胸",
+                    "source":"petpet",
+                    "command":"胸/凶/breast @**",
+                    "img":"https://img1.imgtp.com/2022/07/19/FHAIo5DE.png"
+                },
+                {
+                    "title":"抱歉",
+                    "source":"petpet",
+                    "command":"抱歉/decent_kiss @**",
+                    "img":"https://img1.imgtp.com/2022/07/19/BSzM6yNK.png"
+                },
+                {
+                    "title":"挡",
+                    "source":"petpet",
+                    "command":"挡/cover_face @**",
+                    "img":"https://img1.imgtp.com/2022/07/19/hSGvaVbi.png"
+                },
+                {
+                    "title":"吃",
+                    "source":"petpet",
+                    "command":"吃/eat @**",
+                    "img":"https://img1.imgtp.com/2022/07/19/YkFseoVB.png"
+                },
+                {
+                    "title":"陪睡",
+                    "source":"petpet",
+                    "command":"陪睡/coupon @**",
+                    "img":"https://img1.imgtp.com/2022/07/19/NBoLIKK0.png"
+                },
+                {
+                    "title":"丢",
+                    "source":"petpet",
+                    "command":"丢/cast  @**",
+                    "img":"https://img1.imgtp.com/2022/07/19/36aT7uE4.png"
+                },
+                {
+                    "title":"采访",
+                    "source":"petpet",
+                    "command":"采访/interview  @**",
+                    "img":"https://img1.imgtp.com/2022/07/19/NjskBhAn.png"
                 }
    ]
 }
