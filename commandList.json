@@ -293,6 +293,12 @@
                     "source":"petpet",
                     "command":"采访/interview  @**",
                     "img":"https://img1.imgtp.com/2022/07/19/NjskBhAn.png"
+                },
+                {
+                    "title":"搜图/搜番",
+                    "source":"mirai-plugins-pixiv",
+                    "command":"搜图/搜番+图片",
+                    "img":"https://img1.imgtp.com/2022/07/25/FRmg3pMH.png"
                 }
    ]
 }
